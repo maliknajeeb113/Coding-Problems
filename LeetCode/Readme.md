@@ -13,6 +13,7 @@
 | Rotate Image                                       | [48](48.js)     | Medium     |
 | Plus One                                           | [66](66.js)     | Easy       |
 | Sqrt(x)                                            | [69](69.js)     | Easy       |
+| Valid Palindrome                                   | [125](125.js)     | Easy       |
 | Rotate String                                      | [796](796.js)   | Easy       |
 | Check if Array Is Sorted and Rotated               | [1752](1752.js) | Easy       |
 | Counter                                            | [2620](2620.js) | Easy       |
